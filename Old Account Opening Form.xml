@@ -1,0 +1,391 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FormData>
+  <P1_Surname>Tsz fAi</P1_Surname>
+  <P1_AccType>CA</P1_AccType>
+  <P1_ChineseGivenName />
+  <P1_ChineseSurname />
+  <P1_GivenName>kwok</P1_GivenName>
+  <P1_Gender>Off</P1_Gender>
+  <P1_ComName />
+  <CIFNo />
+  <PriAccNo />
+  <P3_BankRelationPersonName />
+  <P3_HomeAreaCode />
+  <P3_HomePhoneNo />
+  <P3_OfficeAreaCode />
+  <P3_OfficePhoneNo />
+  <P3_BankRelationComDept />
+  <P4_ATMCardDisplayLang>Off</P4_ATMCardDisplayLang>
+  <P4_ATMCard_LinkSubAcc>Off</P4_ATMCard_LinkSubAcc>
+  <P4_ATMCard_LinkSubAccAcc1 />
+  <P4_ATMCard_LinkSubAccAcc2 />
+  <P5_eBankingRefuseOpen>Off</P5_eBankingRefuseOpen>
+  <P15_Ack_AccOpen_3>Off</P15_Ack_AccOpen_3>
+  <P15_Ack_AccOpen_5>Off</P15_Ack_AccOpen_5>
+  <P15_Ack_AccOpen_7>Off</P15_Ack_AccOpen_7>
+  <P15_Ack_AccOpen_8>Off</P15_Ack_AccOpen_8>
+  <P15_Ack_InvestAccOpen_1 />
+  <P15_Ack_InvestAccOpen_2 />
+  <P15_Ack_InvestAccOpen_5 />
+  <P15_Ack_AccOpen_2>Off</P15_Ack_AccOpen_2>
+  <P16_Signing_SoleSign>Off</P16_Signing_SoleSign>
+  <P16_Signing_MultiSign />
+  <P16_Signing_Others />
+  <P16_Signing_MultiSignNo />
+  <P16_Signing_MultiSignTotal />
+  <P16_Signing_OthersSpecify />
+  <P16_Signing_PrincipalName>kwok tsz fai</P16_Signing_PrincipalName>
+  <P16_Signing_PrincipalIDNo />
+  <P16_Signing_JointApplicantIDNo1 />
+  <P16_Signing_JointApplicantName1 />
+  <P16_Signing_JointApplicantName2 />
+  <P16_Signing_JointApplicantIDNo2 />
+  <P16_Signing_JointApplicantIDNo3 />
+  <P16_Signing_JointApplicantName3 />
+  <P16_ChineseName />
+  <P16_Any />
+  <P16_Of />
+  <P16_Others />
+  <P16_AccNo />
+  <P16_IVSAccNo />
+  <P16_Witness />
+  <P16_AppBy />
+  <P17_CCDInput />
+  <P17_APP />
+  <P17_CheckedByAOB />
+  <P17_ApprovedByAOB />
+  <TimeStamp />
+  <P1_DOB_DD />
+  <P1_DOB_MM />
+  <P1_DOB_YY />
+  <P16_SignDate_DD />
+  <P16_SignDate_MM />
+  <P16_SignDate_YYYY />
+  <Save & Print />
+  <Clear Form Values />
+  <Convert />
+  <Clear />
+  <P3_ResAdd_RmFlat />
+  <P3_ResAdd_Floor />
+  <P3_ResAdd_EstateBldgName />
+  <P3_ResAdd_BldgNoStreetName />
+  <P3_CorrAdd_RmFlat />
+  <P3_CorrAdd_EstateBldgName />
+  <P3_CorrAdd_BldgNoStreetName />
+  <ListEntries />
+  <ValueEntries />
+  <applyFieldName />
+  <P3_BankRelation>Off</P3_BankRelation>
+  <P15_Ack_AccOpen_4>Off</P15_Ack_AccOpen_4>
+  <P1_AnnualIncome> </P1_AnnualIncome>
+  <P15_Ack_InvestAccOpen_4 />
+  <1 />
+  <For bank’s use />
+  <For bank’s use 銀行專用 />
+  <3 />
+  <For bank’s use 銀行專用_1 />
+  <For bank’s use 銀行專用_2 />
+  <6 />
+  <4 />
+  <7 />
+  <For bank’s use_2 />
+  <For bank’s use 銀行專用_5 />
+  <accepted the terms therein and agree to be bound by them />
+  <14 />
+  <Signature />
+  <聯名申請人姓名 />
+  <聯名申請人姓名_1 />
+  <聯名申請人姓名_2 />
+  <日期 日/月/年 Date DD/MM/YYYY />
+  <15 />
+  <Checked by AOB />
+  <P1_Martial>    </P1_Martial>
+  <P1_Education> </P1_Education>
+  <P1_EmployStatus_Other> </P1_EmployStatus_Other>
+  <P1_SourceFund />
+  <P3_ResAdd_PostCode />
+  <P4_ATMCardType />
+  <P8_FinSituation_SourceOfFund_BusiProfitSpecify0 />
+  <P8_FinSituation_SourceOfFund_Others_Specify0 />
+  <P3_REASON1 />
+  <P3_REASON2 />
+  <P3_REASON3 />
+  <P3_REASON4 />
+  <P3_REASON5 />
+  <P1_RB_Remark1 />
+  <P1_RB_Remark2 />
+  <P1_RB_Remark3 />
+  <P1_RB_Remark4 />
+  <P1_RB_Remark5 />
+  <P1_TIN1 />
+  <P1_TIN2 />
+  <P1_TIN3 />
+  <P1_TIN4 />
+  <P1_TIN5 />
+  <P2_ConsentLetter>Off</P2_ConsentLetter>
+  <P3_OpenAccPurposePayRoll>Off</P3_OpenAccPurposePayRoll>
+  <P3_OpenAccPurposeInterestEarning>Off</P3_OpenAccPurposeInterestEarning>
+  <P3_OpenAccPurposePersonalSaving>Off</P3_OpenAccPurposePersonalSaving>
+  <P3_OpenAccPurposeInvSettlement>Off</P3_OpenAccPurposeInvSettlement>
+  <P3_OpenAccPurposeRepayment>09</P3_OpenAccPurposeRepayment>
+  <P3_OpenAccPurposeAutoPay>Off</P3_OpenAccPurposeAutoPay>
+  <CIFNoLabel>CIF No.</CIFNoLabel>
+  <PriAccNoLabel>A/C No.</PriAccNoLabel>
+  <BranchCodeLabel>Branch Code</BranchCodeLabel>
+  <P3_OfficeFaxAreaCode />
+  <P3_OfficeFaxPhoneNo />
+  <P3_EmailAddr />
+  <P6_Investment_No />
+  <P6_Customer_Type>Off</P6_Customer_Type>
+  <P6_Customer_Type0 />
+  <P6_Customer_Type1 />
+  <P6_Customer_Type2 />
+  <P6_Customer_Type3 />
+  <P3_HomePhoneNo0 />
+  <P3_HomePhoneNo1 />
+  <P3_HomePhoneNo2 />
+  <P3_HomePhoneNo3 />
+  <P3_HomePhoneNo4 />
+  <P3_HomePhoneNo5 />
+  <P6_Stock_Trading_Channels_Internet />
+  <P6_Stock_Trading_Channels_Not>Off</P6_Stock_Trading_Channels_Not>
+  <P16_Signing_JointApplicantName0 />
+  <P16_Signing_JointApplicantIDNo0 />
+  <聯名申請人姓名_0 />
+  <P16_BranchCode>060</P16_BranchCode>
+  <P16_EnglishName>kwok tsz fai</P16_EnglishName>
+  <P16_AccNo1 />
+  <P16_AccNo2 />
+  <P16_AccNo3 />
+  <P16_AccNo4 />
+  <P16_AccNo5 />
+  <P16_AccNo6 />
+  <P16_AccNo8 />
+  <P16_AccNo9 />
+  <P16_AccNo10 />
+  <P2_CRS_Status0 />
+  <P16_AccNo13 />
+  <P16_AccNo14 />
+  <P16_FTS REG />
+  <P16_FTS_Declaration />
+  <P16_FTS_ExpireDate />
+  <P15_Ack_AccOpen_0>Off</P15_Ack_AccOpen_0>
+  <P15_Ack_AccOpen_1>Off</P15_Ack_AccOpen_1>
+  <P1_SourceOfWealth>Off</P1_SourceOfWealth>
+  <P3_MobileAreaCode />
+  <P4_ATMCard_OverseaATM>Off</P4_ATMCard_OverseaATM>
+  <P1_BCDate />
+  <P1_BCIDNum />
+  <P1_SID_TYPE />
+  <P1_PassportExpiryDate />
+  <P1_PassportIDNum0 />
+  <P1_IDNo />
+  <P1_IDNum />
+  <P1_IDType_Others>M</P1_IDType_Others>
+  <P3_MobileNo />
+  <P1_SecondPassportExpiryDate />
+  <P2_FillingBranch4> </P2_FillingBranch4>
+  <P3_Account_Type_No />
+  <P3_Account_Type_No0 />
+  <P3_Account_Type_No1 />
+  <P3_Account_Type_No2 />
+  <P3_Account_Type_No3 />
+  <P3_FillingBranch1>N/A</P3_FillingBranch1>
+  <P4_ChequeBkHKD>Off</P4_ChequeBkHKD>
+  <P4_ChequeBkUSD>Off</P4_ChequeBkUSD>
+  <P3_OpenAccPurposeOthers>Off</P3_OpenAccPurposeOthers>
+  <P3_Account_Type_Desc />
+  <P3_Account_Type_Desc0 />
+  <P3_Account_Type_Desc1 />
+  <P3_Account_Type_Desc2 />
+  <P3_Account_Type_Desc3 />
+  <P3_Account_Type />
+  <P3_Account_Type0 />
+  <P3_Account_Type1 />
+  <P3_Account_Type2 />
+  <P3_Account_Type3 />
+  <P6_eAlert_Language>Off</P6_eAlert_Language>
+  <For bank’s use 銀行專用_4 />
+  <For bank’s use 銀行專用_6 />
+  <For bank’s use 銀行專用_7 />
+  <For bank’s use 銀行專用_8 />
+  <客戶聲明 CUSTOMER DECLARATIONS />
+  <P3_Account_Type_Chinese />
+  <P1_FormerName1 />
+  <P3_Account_Type_Currency> </P3_Account_Type_Currency>
+  <P3_FATCA>Off</P3_FATCA>
+  <P3_BO>Off</P3_BO>
+  <P3_EmailAddrEStatement />
+  <BranchCodeSource>073</BranchCodeSource>
+  <BrandCodeText>073</BrandCodeText>
+  <P2_FillingBranch2>073</P2_FillingBranch2>
+  <P3_OpenAccPurposeOthersDetail />
+  <P6_Asset_Net>Off</P6_Asset_Net>
+  <P6_Stock_Quote>Off</P6_Stock_Quote>
+  <P6_Dividend_Instruction>Off</P6_Dividend_Instruction>
+  <P2_FillingBranch5 />
+  <P2_FillingBranch6 />
+  <P16_AccNo15 />
+  <P2_FillingBranch7 />
+  <P16_Signing_SoleSign0>Off</P16_Signing_SoleSign0>
+  <P16_Signing_SoleSign2>Off</P16_Signing_SoleSign2>
+  <P16_Signing_SoleSign1>Off</P16_Signing_SoleSign1>
+  <P3_ResAdd_RmFlat0 />
+  <P3_ResAdd_Floor0 />
+  <P3_ResAdd_EstateBldgName0 />
+  <P3_ResAdd_BldgNoStreetName0 />
+  <P3_ResAdd_PostCode0 />
+  <P3_CorrAdd_RmFlat0 />
+  <P3_CorrAdd_Floor0 />
+  <P3_CorrAdd_EstateBldgName0 />
+  <P3_CorrAdd_BldgNoStreetName0 />
+  <P3_CorrAdd_PostCode0 />
+  <P6_Stock_Trading_Channels_Stock>Off</P6_Stock_Trading_Channels_Stock>
+  <P15_Ack_Receipt_Stock />
+  <P15_Ack_Receipt_Ntices_Amendments />
+  <P15_Ack_Receipt_eAlert />
+  <P15_Ack_Receipt_Additional />
+  <P15_Ack_Receipt_Additional_Risk />
+  <P15_Ack_Receipt_Terms />
+  <P15_Ack_Receipt_Benking_card />
+  <P15_Ack_Receipt_Booklet />
+  <P7_PremierBankingType>open</P7_PremierBankingType>
+  <P7_PremierBankingAccNo />
+  <P7_PremierBankingIssue />
+  <P7_PremierBankingAgreement />
+  <P7_SettlementAccOtherAccNo1 />
+  <P7_SettlementAccOtherAccNo2 />
+  <P7_SettlementAccOtherAccNo3 />
+  <P7_SettlementAccOtherAccNo4 />
+  <P7_SettlementAccIntegratedAccNo />
+  <P7_SettlementAccDesignatedNo />
+  <P7_SettlementAccDesignatedNo0 />
+  <9 />
+  <P3_isDiffAddress_corr>Yes</P3_isDiffAddress_corr>
+  <P3_CorrAdd_Floor />
+  <P3_isDiffAddress>Yes</P3_isDiffAddress>
+  <P1_jointAccountRelationship>004</P1_jointAccountRelationship>
+  <11 />
+  <P1_AccTypePremier>Off</P1_AccTypePremier>
+  <fileName>CA073_Tsz fAi_kwok.pdf</fileName>
+  <P15_Ack_InvestAccOpen_OtherSpecify />
+  <P15_Ack_InvestAccOpen_15 />
+  <7_1 />
+  <For bank’s use 銀行專用_3 />
+  <P4_ATMCard_LinkSubAcc0>Off</P4_ATMCard_LinkSubAcc0>
+  <P3_Account_Type_Chinese0 />
+  <P3_Account_Type_Currency0> </P3_Account_Type_Currency0>
+  <P3_Account_Type_Currency1> </P3_Account_Type_Currency1>
+  <P3_Account_Type_Currency2> </P3_Account_Type_Currency2>
+  <P3_Account_Type_Currency3> </P3_Account_Type_Currency3>
+  <P1_ComIsChinese>English</P1_ComIsChinese>
+  <P1_SourceFund_Remark />
+  <ATM_PriAccNo0 />
+  <P3_OpenAccPurposePayRoll1>Off</P3_OpenAccPurposePayRoll1>
+  <P3_OpenAccPurposePayRoll2>Off</P3_OpenAccPurposePayRoll2>
+  <P3_OpenAccPurposePayRoll3>Off</P3_OpenAccPurposePayRoll3>
+  <P3_OpenAccPurposePayRoll4>Off</P3_OpenAccPurposePayRoll4>
+  <P3_Account_Type_No4 />
+  <P3_Account_Type_No5 />
+  <P3_Account_Type_No6 />
+  <P3_Account_Type_Desc4 />
+  <P3_Account_Type4 />
+  <P3_Account_Type_Desc5 />
+  <P3_Account_Type5 />
+  <P3_Account_Type_Desc6 />
+  <P3_Account_Type6 />
+  <P3_Account_Type_Currency4> </P3_Account_Type_Currency4>
+  <P3_Account_Type_Currency5> </P3_Account_Type_Currency5>
+  <P3_Account_Type_Currency6> </P3_Account_Type_Currency6>
+  <P3_Account_Type_No7 />
+  <P3_Account_Type7 />
+  <P3_Account_Type_Currency7> </P3_Account_Type_Currency7>
+  <P3_Account_Type_Chinese7 />
+  <P3_Account_Type_No8 />
+  <P3_Account_Type_No9 />
+  <P3_Account_Type_No10 />
+  <P3_Account_Type_No11 />
+  <P3_Account_Type_Desc7 />
+  <P3_Account_Type_Desc8 />
+  <P3_Account_Type8 />
+  <P3_Account_Type9 />
+  <P3_Account_Type_Desc9 />
+  <P3_Account_Type10 />
+  <P3_Account_Type_Desc10 />
+  <P3_Account_Type11 />
+  <P3_Account_Type_Desc11 />
+  <P3_Account_Type_Chinese8 />
+  <P3_Account_Type_Chinese9 />
+  <P3_Account_Type_Chinese10 />
+  <P3_Account_Type_Chinese11 />
+  <P3_Account_Type_Currency8> </P3_Account_Type_Currency8>
+  <P3_Account_Type_Currency9> </P3_Account_Type_Currency9>
+  <P3_Account_Type_Currency10> </P3_Account_Type_Currency10>
+  <P3_Account_Type_Currency11> </P3_Account_Type_Currency11>
+  <P4_AMCM_Msg_Lang>Off</P4_AMCM_Msg_Lang>
+  <P4_AMCM_EmailAddr />
+  <P4_AMCM_Mobile />
+  <P4_AMCM_Account />
+  <P3_defaultAddressLanguage>Off</P3_defaultAddressLanguage>
+  <P4_AMCM_RegDate />
+  <P3_RemoveAllOpenAccPurpose>Off</P3_RemoveAllOpenAccPurpose>
+  <P1_CityOfBirth />
+  <eBanking_PriAccNo />
+  <companyNoLabel>(如沒有公司, 請不要填寫)</companyNoLabel>
+  <chineseAddressNoLabel>(請按兩下複製通訊地址)</chineseAddressNoLabel>
+  <englishAddressNoLabel>(Please double click to copy the correspondence address)</englishAddressNoLabel>
+  <P3_HomeAreaNo0 />
+  <P1_Nation />
+  <P1_ThirdNation> </P1_ThirdNation>
+  <P1_SecNation> </P1_SecNation>
+  <P1_PlaceOfBirth />
+  <P1_IssuingCountry> </P1_IssuingCountry>
+  <P1_SecondPassportIssueCountry> </P1_SecondPassportIssueCountry>
+  <P1_JurOfResdense1> </P1_JurOfResdense1>
+  <P1_JurOfResdense2> </P1_JurOfResdense2>
+  <P1_JurOfResdense3> </P1_JurOfResdense3>
+  <P1_JurOfResdense4> </P1_JurOfResdense4>
+  <P1_JurOfResdense5> </P1_JurOfResdense5>
+  <P3_ResAddCountry />
+  <P3_CorrAdd_Coun0 />
+  <P3_ResAddCountry0 />
+  <P3_CorrAdd_PostCode />
+  <P3_CorrAdd_Coun />
+  <P1_JurOfResdense7> </P1_JurOfResdense7>
+  <P1_JurOfResdense8> </P1_JurOfResdense8>
+  <P1_JurOfResdense9> </P1_JurOfResdense9>
+  <ATM_PriAccNo0_Currency> </ATM_PriAccNo0_Currency>
+  <P4_ATMCard_LinkSubAccAcc_Currency1> </P4_ATMCard_LinkSubAccAcc_Currency1>
+  <P4_ATMCard_LinkSubAccAcc_Currency2> </P4_ATMCard_LinkSubAccAcc_Currency2>
+  <P5_eStatementMail>Off</P5_eStatementMail>
+  <P5_eStatementTelematic>Off</P5_eStatementTelematic>
+  <P1_Remark />
+  <P3_Account_Type_Chinese1 />
+  <P3_Account_Type_Chinese2 />
+  <P3_Account_Type_Chinese3 />
+  <P3_Account_Type_Chinese4 />
+  <P3_Account_Type_Chinese5 />
+  <P3_Account_Type_Chinese6 />
+  <englishAddressNoLabel0>如非第一/獨立申請人，請填寫資料於聯名申請人或授權人以及簽署於左邊空格</englishAddressNoLabel0>
+  <P5_Investment_currency_hkd />
+  <P5_Investment_currency_rmb />
+  <P5_Investment_currency_usd />
+  <P5_FPS_Daily_Limit />
+  <P5_isFPS>Off</P5_isFPS>
+  <P15_Ack_AccOpen_6>Off</P15_Ack_AccOpen_6>
+  <P3_OpenAccPuroposeReason> </P3_OpenAccPuroposeReason>
+  <CIFNoLabel0>( 只限英文 )</CIFNoLabel0>
+  <P3_OpenAccPuroposeReasonOther />
+  <P1_Position1> </P1_Position1>
+  <P1_IndustryNature0> </P1_IndustryNature0>
+  <AMCMNoLabel>( 如無填寫手提電話號碼, 則無需選擇語言 )</AMCMNoLabel>
+  <CIFNoLabel1>主要賬戶持有人</CIFNoLabel1>
+  <CIFNoLabel2>次要賬戶持有人</CIFNoLabel2>
+  <P1_isPrimaryAccount>P</P1_isPrimaryAccount>
+  <CIFNo0 />
+  <PriAccNo0 />
+  <TimeStamp0 />
+  <BrandCodeText0>073</BrandCodeText0>
+  <P3_deposit_confirmation_checkbox>Off</P3_deposit_confirmation_checkbox>
+  <P3_deposit_confirmation_checkbox0>Off</P3_deposit_confirmation_checkbox0>
+</FormData>
